@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Test GitSync",
+  "appCoRelationId": "72ff354b-b7da-4cdb-9be9-8183b4f94e68",
+  "gitAppId": "5cac3672-c9ea-4383-a8cc-664c3e506341",
+  "branchName": "test-aditya",
+  "gitVersionName": "test-aditya",
+  "gitVersionId": "a0959373-4517-4081-b806-9960eb5decf4",
+  "tooljetVersion": "3.21.0-beta-ee",
+  "createdAt": "2026-03-02T13:31:50.184Z",
+  "updatedAt": "2026-03-02T13:31:50.184Z"
+}
