@@ -1,0 +1,17 @@
+{
+  "id": "72ff354b-b7da-4cdb-9be9-8183b4f94e68",
+  "name": "Test GitSync",
+  "type": "front-end",
+  "slug": "72ff354b-b7da-4cdb-9be9-8183b4f94e68",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-26T15:30:59.418Z",
+  "organizationId": "9a3a8073-4300-41b9-ac2b-fc851630cb6d",
+  "userId": "f1524b83-7f55-4b91-bac4-97a490dcfcd8",
+  "icon": "home",
+  "tooljetVersion": "3.21.0-beta-ee"
+}
